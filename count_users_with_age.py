@@ -11,6 +11,6 @@ def count_users_with_age(data:list, age:int) -> int:
     s = 0
     for i in data:
         if i["age"] == age:
-            s += 1
+            s += 1 
     return s
-print(count_users_with_age([{"name":"Umidjon", "age":20}, {"name":"Husan", "age":22}], 20))
+print(count_users_with_age([{"name":"Umidjon", "age":20}, {"name":"Husan", "age":22}], ))
