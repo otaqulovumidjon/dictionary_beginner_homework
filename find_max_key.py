@@ -7,7 +7,6 @@ def find_max_key(data: dict):
         int: The maximum key in the dictionary.
     """
     ls = []
-    js = []
     for i in data.keys():
         ls.append(i)
 
