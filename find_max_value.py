@@ -9,7 +9,6 @@ def find_max_value(data: dict):
     ls = []
     m = 0
     for i in data.values():
-        # ls.append(i)
         if i > m:
             m = i
 
