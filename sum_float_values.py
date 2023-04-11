@@ -18,4 +18,4 @@ print(sum_float_values({
     4: 7.6, 
     5: 2, 
     6: 3
-  }))
+  })) 
