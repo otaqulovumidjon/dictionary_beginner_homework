@@ -17,4 +17,4 @@ print(sum_dict_values({
     6: 7, 
     5: 2, 
     7: 3
-  }))
+  })) 
