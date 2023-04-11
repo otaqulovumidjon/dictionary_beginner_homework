@@ -12,7 +12,7 @@ def sum_age_values(data:list) -> int:
 
     s = 0
     for n in ls:
-        s += n
+        s += n 
     return s
 print(sum_age_values([
   {
