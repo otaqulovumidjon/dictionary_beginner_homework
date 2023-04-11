@@ -17,7 +17,7 @@ def get_user_names(data:list, country:str) -> list:
     while n < len(ls):
         if ls[n] == country:
             js.append(data[n]['name'])
-        n += 1
+        n += 1 
     return js
 print(get_user_names([
   {
